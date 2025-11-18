@@ -19,6 +19,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import java.util.*;
 import java.time.Duration;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
